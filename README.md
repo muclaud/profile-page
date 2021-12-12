@@ -1,3 +1,8 @@
+
+## Deployed
+see: https://profile-page-kappa.vercel.app/
+
+
 <p align="center">
    <br/>
    <a href="https://next-auth.js.org" target="_blank"><img width="150px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
@@ -17,6 +22,7 @@
       </a>
    </p>
 </p>
+
 
 ## Overview
 
