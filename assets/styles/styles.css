@@ -1,0 +1,30 @@
+.min-h-screen-50 {
+  min-height: 50vh;
+}
+.min-h-screen-75 {
+  min-height: 75vh;
+}
+.min-h-screen-100 {
+  min-height: 100vh;
+}
+
+.hero-bg-dark {
+  background: linear-gradient(
+      180deg,
+      hsl(218, 13%, 12%) 0%,
+      rgb(46, 45, 49) 51%,
+      rgb(66, 65, 65) 92%
+    )
+    no-repeat center;
+}
+
+.hero-bg-light {
+  background: linear-gradient(
+    to top,
+    #041205,
+    #0a1d0a,
+    #0b280c,
+    #0a330c,
+    #0a3f0a
+  );
+}
