@@ -1,4 +1,3 @@
-import { GetServerSideProps } from "next"
 import axios from "axios"
 import Layout from "components/layout"
 import HeroSection from "components/heroSection"
@@ -50,9 +49,7 @@ type Params = {
   }
 }
 
-export const getServerSideProps: GetServerSideProps = async ({
-  params,
-}: Params) => {
+export const getServerSideProps = async ({ params }: Params) => {
   const id = params.slug
   const { data } = await axios.get(
     `https://jsonplaceholder.typicode.com/posts/${id}`

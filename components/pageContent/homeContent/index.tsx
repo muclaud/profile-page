@@ -39,39 +39,36 @@ const HomeContent = (): JSX.Element => {
 
         <div className="container mx-auto px-4">
           <div className="flex flex-wrap">
-            <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
+            <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center dark:text-green-900">
               <CardWithIcon
                 bgColor="bg-white"
                 bgIconColor="bg-red-400"
                 iconName="fa-award"
-                cardTitle="Awarded Agency"
+                cardTitle="Placeholder"
                 textColor="text-green-500"
-                text="Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough."
+                text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
               />
             </div>
 
-            <div className="w-full md:w-4/12 px-4 text-center">
+            <div className="w-full md:w-4/12 px-4 text-center dark:text-green-900">
               <CardWithIcon
                 bgColor="bg-white"
                 bgIconColor="bg-blue-400"
                 iconName="fa-retweet"
-                cardTitle="Free Revisions"
+                cardTitle="Placeholder"
                 textColor="text-green-500"
-                text="Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious."
+                text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
               />
             </div>
 
-            <div className="pt-6 w-full md:w-4/12 px-4 text-center">
+            <div className="pt-6 w-full md:w-4/12 px-4 text-center dark:text-green-900">
               <CardWithIcon
                 bgColor="bg-white"
                 bgIconColor="bg-green-400"
                 iconName="fa-fingerprint"
-                cardTitle="Verified Company"
+                cardTitle="Placeholder"
                 textColor="text-green-500"
-                text="Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!"
+                text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
               />
             </div>
           </div>
@@ -83,12 +80,12 @@ const HomeContent = (): JSX.Element => {
           <div className="flex flex-wrap text-center justify-center">
             <div className="w-full lg:w-6/12 px-4">
               <h2 className="text-4xl font-semibold text-white">
-                Build something
+                Some text...
               </h2>
               <p className="text-lg leading-relaxed mt-4 mb-4 text-green-800">
-                Put the potentially record low maximum sea ice extent tihs year
-                down to low ice. According to the National Oceanic and
-                Atmospheric Administration, Ted, Scambos.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text.
               </p>
             </div>
           </div>
@@ -97,36 +94,33 @@ const HomeContent = (): JSX.Element => {
               <div className="text-green-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
                 <i className="fas fa-medal text-xl"></i>
               </div>
-              <h6 className="text-xl mt-5 font-semibold text-white">
-                Excelent Services
-              </h6>
+              <h6 className="text-xl mt-5 font-semibold text-white">First</h6>
               <p className="mt-2 mb-4 text-green-800">
-                Some quick example text to build on the card title and make up
-                the bulk of the card`s content.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
               <div className="text-green-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
                 <i className="fas fa-poll text-xl"></i>
               </div>
-              <h5 className="text-xl mt-5 font-semibold text-white">
-                Grow your market
-              </h5>
+              <h5 className="text-xl mt-5 font-semibold text-white">Second</h5>
               <p className="mt-2 mb-4 text-green-800">
-                Some quick example text to build on the card title and make up
-                the bulk of the card`s content.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
               <div className="text-green-800 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
                 <i className="fas fa-lightbulb text-xl"></i>
               </div>
-              <h5 className="text-xl mt-5 font-semibold text-white">
-                Launch time
-              </h5>
+              <h5 className="text-xl mt-5 font-semibold text-white">Third</h5>
               <p className="mt-2 mb-4 text-green-800">
-                Some quick example text to build on the card title and make up
-                the bulk of the card`s content.
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text.
               </p>
             </div>
           </div>
