@@ -53,14 +53,14 @@ const BlogPage = (): JSX.Element => {
 
 export default BlogPage
 
-export const getServerSideProps: GetServerSideProps<{
-  session: Session | null
-}> = async (context) => {
-  // const { data } = await axios.get("https://jsonplaceholder.typicode.com/posts")
-  return {
-    props: {
-      session: await getSession(context),
-      // posts: data,
-    },
-  }
-}
+// export const getServerSideProps: GetServerSideProps<{
+//   session: Session | null
+// }> = async (context) => {
+//   // const { data } = await axios.get("https://jsonplaceholder.typicode.com/posts")
+//   return {
+//     props: {
+//       session: await getSession(context),
+//       // posts: data,
+//     },
+//   }
+// }
