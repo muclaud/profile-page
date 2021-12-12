@@ -1,6 +1,6 @@
 
 ## Deployed
-see: https://profile-page-kappa.vercel.app/
+see: https://profile-page-9jechi42v-muclaud.vercel.app/
 
 
 <p align="center">
