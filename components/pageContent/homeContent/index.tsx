@@ -46,7 +46,7 @@ const HomeContent = (): JSX.Element => {
                 iconName="fa-award"
                 cardTitle="Placeholder"
                 textColor="text-green-500"
-                text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text."
+                text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrs standard dummy text."
               />
             </div>
 
@@ -84,8 +84,8 @@ const HomeContent = (): JSX.Element => {
               </h2>
               <p className="text-lg leading-relaxed mt-4 mb-4 text-green-800">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text.
+                industry. Lorem Ipsum has been the industry&apos;s standard
+                dummy text.
               </p>
             </div>
           </div>
@@ -97,8 +97,8 @@ const HomeContent = (): JSX.Element => {
               <h6 className="text-xl mt-5 font-semibold text-white">First</h6>
               <p className="mt-2 mb-4 text-green-800">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text.
+                industry. Lorem Ipsum has been the industry&apos;s standard
+                dummy text.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
@@ -108,8 +108,8 @@ const HomeContent = (): JSX.Element => {
               <h5 className="text-xl mt-5 font-semibold text-white">Second</h5>
               <p className="mt-2 mb-4 text-green-800">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text.
+                industry. Lorem Ipsum has been the industry&apos;s standard
+                dummy text.
               </p>
             </div>
             <div className="w-full lg:w-3/12 px-4 text-center">
@@ -119,8 +119,8 @@ const HomeContent = (): JSX.Element => {
               <h5 className="text-xl mt-5 font-semibold text-white">Third</h5>
               <p className="mt-2 mb-4 text-green-800">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text.
+                industry. Lorem Ipsum has been the industry&apos;s standard
+                dummy text.
               </p>
             </div>
           </div>
